@@ -177,7 +177,7 @@ var APP_DATA = {
         {
           "yaw": 0.24793854699774087,
           "pitch": 0.0858940813839908,
-          "title": "Baloon Sculpture",
+          "title": "Balloon Sculpture",
           "text": "<font color=\"#202122\" face=\"sans-serif\"><span style=\"font-size: 16px;\"><b>Jeffrey Lynn Koons is an American artist recognized for his work dealing with popular culture and his sculptures depicting everyday objects, including balloon animals produced in stainless steel with mirror-finish surfaces.</b></span></font>"
         }
       ]
